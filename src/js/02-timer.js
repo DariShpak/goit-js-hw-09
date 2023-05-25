@@ -43,6 +43,7 @@ const options = {
       outDate = selectedDates[0] - new Date();
     }
 
+
   },
 };
 
